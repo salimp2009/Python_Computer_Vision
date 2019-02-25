@@ -1,7 +1,8 @@
 import cv2
 import imageio
 
-#new changes made to learn how to use github
+# this change is from my local machine
+
 
 face_cascade = cv2.CascadeClassifier('haarcascade-frontalface-default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade-eye.xml')
